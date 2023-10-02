@@ -33,10 +33,8 @@ This does not mean I will actually address all of these things in the Quiz.
 
 Again, this doesn't mean I actually used all 13 of these packages. It means that this list includes everything I did use in creating the Quiz and its answers.
 
-- [broom](https://broom.tidymodels.org/), [Epi](http://bendixcarstensen.com/Epi/), [ggrepel](https://ggrepel.slowkow.com/),
-- [gt](https://gt.rstudio.com/), and [gtExtras](https://jthomasmock.github.io/gtExtras/),
-- [Hmisc](https://hbiostat.org/r/hmisc/), [janitor](https://github.com/sfirke/janitor), [mosaic](https://github.com/ProjectMOSAIC/mosaic),
-- [naniar](https://naniar.njtierney.com/), [patchwork](https://patchwork.data-imaginist.com/),
+- [broom](https://broom.tidymodels.org/), [Epi](http://bendixcarstensen.com/Epi/), [ggrepel](https://ggrepel.slowkow.com/), [gt](https://gt.rstudio.com/), and [gtExtras](https://jthomasmock.github.io/gtExtras/),
+- [Hmisc](https://hbiostat.org/r/hmisc/), [janitor](https://github.com/sfirke/janitor), [mosaic](https://github.com/ProjectMOSAIC/mosaic), [naniar](https://naniar.njtierney.com/), [patchwork](https://patchwork.data-imaginist.com/),
 - [simputation](https://github.com/markvanderloo/simputation), [xfun](https://yihui.org/xfun/) for its version of `session_info()`, and
 - the [tidyverse](https://www.tidyverse.org/) metapackage, as well as
 - the [`Love-boost.R` script](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/data-and-code/Love-boost.R) for its `bootdif()` function
