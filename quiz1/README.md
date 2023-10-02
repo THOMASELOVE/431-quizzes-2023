@@ -4,11 +4,13 @@ This will be where you will find links to materials for Quiz 1.
 
 ## Instructions
 
-Instructions will be posted here.
+Complete Instructions (including all of the questions for the Quiz) will be linked here on Thursday 2023-10-05 by 5 PM.
+
+- I will share a **draft** of the Instructions for Quiz 1 (no questions, just the general instructions) here by Tuesday 2023-10-03 at noon.
 
 ## Data
 
-Data sets will be described and linked here.
+Data sets I will provide for Quiz 1 will be listed and linked here.
 
 ## Google Form Answer Sheet
 
@@ -27,9 +29,9 @@ A link to our Google Form Answer Sheet will be posted here.
 
 This does not mean I will actually address all of these things in the Quiz.
 
-## R Packages I can draw from in Quiz 1
+## The 13 R Packages I might draw from in Quiz 1
 
-Again, this doesn't mean I actually used all of these packages. It means that this list includes everything I did use in creating the Quiz and its answers.
+Again, this doesn't mean I actually used all 13 of these packages. It means that this list includes everything I did use in creating the Quiz and its answers.
 
-- broom, Epi, ggrepel, glue, gt, gtExtras, Hmisc, janitor, mosaic, naniar, patchwork, simputation, xfun, and the tidyverse metapackage
+- `broom`, `Epi`, `ggrepel`, `gt`, `gtExtras`, `Hmisc`, `janitor`, `mosaic`, `naniar`, `patchwork`, `simputation`, `xfun`, and the `tidyverse` metapackage
 - as well as the `Love-boost.R` script for the `bootdif()` function
