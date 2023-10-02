@@ -8,7 +8,7 @@ Instructions will be posted here.
 
 ## Data
 
-Data sets will be described here.
+Data sets will be described and linked here.
 
 ## Google Form Answer Sheet
 
