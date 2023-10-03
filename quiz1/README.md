@@ -6,15 +6,15 @@ This will be where you will find links to materials for Quiz 1.
 
 Complete Instructions (including all of the questions for the Quiz) will be linked here on Thursday 2023-10-05 by 5 PM.
 
-- I will share a **draft** of the Instructions for Quiz 1 (no questions, just the general instructions) here by Tuesday 2023-10-03 at noon.
+- Here is a [pdf **draft** of the General Instructions for Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023/blob/main/quiz1/431-2023-quiz1-instructions-draft.pdf) (no questions, just the general instructions). We'll replace this document with the real instructions Thursday.
 
 ## Data
 
-Data sets I will provide for Quiz 1 will be listed and linked here.
+Data sets I will provide for Quiz 1 will be listed and linked here on Thursday 2023-10-05 by 5 PM.
 
 ## Google Form Answer Sheet
 
-A link to our Google Form Answer Sheet will be posted here.
+A link to our Google Form Answer Sheet will be posted here on Thursday 2023-10-05 by 5 PM.
 
 ## Fair materials for me to draw from in Quiz 1
 
