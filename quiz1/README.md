@@ -6,7 +6,7 @@ This page has links to all materials for Quiz 1.
 
 Complete Instructions (including all of the questions for the Quiz) will be linked here on Thursday 2023-10-05 by 5 PM.
 
-- Here is a [pdf **draft** of the General Instructions for Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023/blob/main/quiz1/431-2023-quiz1-instructions-draft.pdf) (no questions, just the general instructions). We'll replace this document with the real instructions Thursday.
+- Here is a [pdf **draft** of the General Instructions for Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023/blob/main/quiz1/431-2023-quiz1-instructions-draft.pdf) (no questions, just the general instructions), updated to match the specifications for the actual Quiz. We'll delete this document when we place the real instructions Thursday.
 
 ## Data
 
