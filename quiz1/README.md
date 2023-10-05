@@ -14,8 +14,19 @@ Data sets I will provide for Quiz 1 will be listed and linked here on Thursday 2
 
 ## Google Form Answer Sheet
 
-A link to our Google Form Answer Sheet will be posted here on Thursday 2023-10-05 by 5 PM.
+All of your answers should be placed in the Google Form Answer Sheet, which is located at <http://bit.ly/431-2023-quiz1-form>
 
+- All of your answers must be submitted through the Google Form by noon on Tuesday 2023-10-10, without exception.
+- The form will close at 1 PM on that date, and no extensions will be made available, so do not wait until late in the morning on Tuesday to submit your work.
+- We will only accept responses through the Google Form.
+
+If you wish to work on some of the quiz and then return later, you can do this by:
+
+1. completing the final question (the affirmation) which asks you to type in your full name, and then
+2. submitting the quiz.
+
+You will then receive a link at your CWRU email which will allow you to return to the quiz as often as you like without losing your progress.
+  
 ## Fair materials for me to draw from in Quiz 1
 
 - [Classes](https://github.com/THOMASELOVE/431-classes-2023/tree/main) 1-12, including the Slides and the READMEs,
