@@ -4,13 +4,13 @@ This page has links to all materials for Quiz 1.
 
 ## Instructions
 
-Complete Instructions (including all of the questions for the Quiz) will be linked here on Thursday 2023-10-05 by 5 PM.
+Complete Instructions (including all of the questions for the Quiz) will be linked here on **Thursday 2023-10-05 by 5 PM**.
 
 - Here is a [pdf **draft** of the General Instructions for Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023/blob/main/quiz1/431-2023-quiz1-instructions-draft.pdf) (no questions, just the general instructions), updated to match the specifications for the actual Quiz. We'll delete this document when we place the real instructions Thursday.
 
 ## Data
 
-In our Shared Drive, in the Quiz 1 Materials folder (and the data subfolder within it), I have provided you with three data sets that are mentioned in the Quiz and which may be helpful to you, specifically:
+In our Shared Drive, in the Quiz 1 Materials folder (and the data subfolder within it), I have provided three data sets that are mentioned in the Quiz and which may be helpful to you, specifically:
 
 - `sleep.csv`, which is first mentioned in Question 11
 - `newborn.csv`, which is first mentioned in Question 13
@@ -20,7 +20,7 @@ In addition, another Quiz question uses a specific data file (identified in the 
  
 ## Google Form Answer Sheet
 
-All of your answers should be placed in the Google Form Answer Sheet located at <https://bit.ly/431-2023-quiz1-form>. The form will open for your responses by 5 PM on Thursday 2023-10-05.
+All of your answers should be placed in the Google Form Answer Sheet located at <https://bit.ly/431-2023-quiz1-form>. The form will open for your responses **by 5 PM on Thursday 2023-10-05**.
 
 - All of your answers must be submitted through the Google Form by noon on Tuesday 2023-10-10, without exception.
 - The form will close at 1 PM that Tuesday (to allow you up to one hour's leeway), and no extensions will be made available, so do not wait until the last minute on Tuesday to submit your work.
