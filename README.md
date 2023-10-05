@@ -4,6 +4,10 @@ PQHS / CRSP / MPHP 431 Quiz Information for Fall 2023
 
 During the semester, you will have two quizzes to complete. Each quiz is taken online via a Google Form (like the Minute Papers or the [Welcome to 431 survey](https://bit.ly/431-2023-welcome-survey).) Each quiz includes both short-answer and multiple-choice items. The quizzes focus on whether you can apply the tools developed in class to address small problems. As we approach the date for each of the two Quizzes planned for 431 this semester, more information will appear here.
 
+# Quiz 1 materials are now available.
+
+Visit <https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz1>. Quiz 1 is due Tuesday 2023-10-10 at Noon.
+
 ## Deadlines
 
 - The deadlines for each quiz are posted to the [Course Calendar](https://thomaselove.github.io/431-2023/calendar.html).
