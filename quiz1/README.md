@@ -1,6 +1,6 @@
 # Quiz 1 Materials
 
-This will be where you will find links to materials for Quiz 1.
+This page has links to all materials for Quiz 1.
 
 ## Instructions
 
