@@ -20,7 +20,7 @@ In addition, another Quiz question uses a specific data file (identified in the 
  
 ## Google Form Answer Sheet
 
-All of your answers should be placed in the Google Form Answer Sheet, which is located at <http://bit.ly/431-2023-quiz1-form>. The form will open for submissions by 5 PM on Thursday 2023-10-05.
+All of your answers should be placed in the Google Form Answer Sheet located at <http://bit.ly/431-2023-quiz1-form>. The form will open for submissions by 5 PM on Thursday 2023-10-05.
 
 - All of your answers must be submitted through the Google Form by noon on Tuesday 2023-10-10, without exception.
 - The form will close at 1 PM that Tuesday (to allow you up to one hour's leeway), and no extensions will be made available, so do not wait until the last minute on Tuesday to submit your work.
