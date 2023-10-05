@@ -10,8 +10,14 @@ Complete Instructions (including all of the questions for the Quiz) will be link
 
 ## Data
 
-Data sets I will provide for Quiz 1 will be listed and linked here on Thursday 2023-10-05 by 5 PM.
+In our Shared Drive, in the Quiz 1 Materials folder (and the data subfolder within it), I have provided you with three data sets that are mentioned in the Quiz and which may be helpful to you, specifically:
 
+- `sleep.csv`, which is first mentioned in Question 11
+- `newborn.csv`, which is first mentioned in Question 13
+- `algae.csv`, which is first mentioned in Question 16 
+
+In addition, another Quiz question uses a specific data file (identified in the Instructions) from [our 431-data page](https://github.com/THOMASELOVE/431-data/tree/main/data-and-code), and that file also has the potential to be useful to you.
+ 
 ## Google Form Answer Sheet
 
 All of your answers should be placed in the Google Form Answer Sheet, which is located at <http://bit.ly/431-2023-quiz1-form>
