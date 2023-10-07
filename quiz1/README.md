@@ -2,6 +2,11 @@
 
 This page has links to all materials for Quiz 1.
 
+## Corrections since initial posting
+
+- **Question 11**: There was a pair of typographical errors in Question 11, where I mistakenly referred to Question 13, once in the stem of the question and once in option c. These references should be to Question 11, in each case. (corrected 2023-10-06 9:30 PM)
+
+
 ## Instructions
 
 [Complete Instructions](https://github.com/THOMASELOVE/431-quizzes-2023/blob/main/quiz1/431-2023-quiz1.pdf) (32 page PDF including all 26 questions for the Quiz) are now available.
