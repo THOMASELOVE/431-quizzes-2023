@@ -4,7 +4,7 @@ This page has links to all materials for Quiz 1.
 
 ## Corrections since initial posting
 
-- **Question 11**: There was a pair of typographical errors in Question 11, where I mistakenly referred to Question 13, once in the stem of the question and once in option c. These references should be to Question 11, in each case. (corrected 2023-10-06 9:30 PM)
+- **Question 11**: There wer a pair of typographical errors in Question 11, where I mistakenly referred to Question 13, once in the stem of the question and once in option c. These references should be to Question 11, in each case. (corrected 2023-10-06 9:30 PM)
 - **Question 13**: In Question 13 options d, e and f, I meant `summarize()` to refer to `dplyr::summarize()` which can also be written as `summarise()`. Since this seems to have confused some people, I have changed the options in the answer sketch and the Quiz instructions to refer now to `summarise()` instead of `summarize()` to (I hope) avoid confusion on this point. (corrected 2023-10-08 6:15 PM)
 
 ## Instructions
