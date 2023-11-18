@@ -58,7 +58,7 @@ You will then receive a link at your CWRU email which will allow you to return t
 - [Course Notes](https://thomaselove.github.io/431-notes/), Chapters 1-32 and 35.
 - Spiegelhalter's *Art of Statistics* Chapters 1-12,
 - [Labs](https://github.com/THOMASELOVE/431-labs-2023) 1-7,
-- our [Minute Papers](https://github.com/THOMASELOVE/431-minute-2023) after classes 3, 5, 9, 11, 13, 15, 18 and 23
+- our [Minute Papers](https://github.com/THOMASELOVE/431-minute-2023) after classes 3, 5, 9, 11, 13, 15, 18 and 23,
 - our [Favorite Movies work](https://github.com/THOMASELOVE/431-classes-2023/tree/main/movies), and
 - all of [Project A](https://thomaselove.github.io/431-projectA-2023/) and the required analyses in Studies 1 and 2 of [Project B](https://thomaselove.github.io/431-projectB-2023/)
 
