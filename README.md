@@ -6,7 +6,7 @@ During the semester, you will have two quizzes to complete. Each quiz is taken o
 
 # Quiz 2 materials are starting to become available.
 
-Visit <https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz2>. Quiz 1 is due Tuesday 2023-12-05 at Noon.
+Visit <https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz2>. Quiz 2 is due Tuesday 2023-12-05 at Noon.
 
 # Quiz 1 materials are now available.
 
