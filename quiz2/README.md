@@ -14,12 +14,12 @@ This doesn't mean I actually used all of these packages. It means that this list
 #| message: false
 
 library(boot); library(broom); library(car); library(corrr)
-library(Epi); library(GGally); library(ggdist); library(ggrepel)
-library(glue); library(gt); library(gtExtras); library(haven)
-library(Hmisc); library(janitor); library(kableExtra); library(knitr)
-library(MASS); library(mice); library(mitml); library(mosaic)
-library(naniar); library(patchwork); library(pwr); library(readxl)
-library(simputation); library(vcd); library(xfun)
+library(Epi); library(googlesheets4); library(GGally); library(ggdist)
+library(ggrepel); library(glue); library(gt); library(gtExtras)
+library(haven); library(Hmisc); library(janitor); library(kableExtra)
+library(knitr); library(MASS); library(mice); library(mitml)
+library(mosaic); library(naniar); library(patchwork); library(pwr)
+library(readxl); library(simputation); library(vcd); library(xfun)
 library(tidyverse)
 
 source("https://raw.githubusercontent.com/THOMASELOVE/431-data/main/data-and-code/Love-boost.R")
