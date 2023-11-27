@@ -19,7 +19,8 @@ library(ggrepel); library(ggridges); library(glue); library(gt)
 library(haven); library(Hmisc); library(janitor); library(kableExtra)
 library(knitr); library(MASS); library(mice); library(mitml)
 library(mosaic); library(naniar); library(patchwork); library(pwr)
-library(readxl); library(simputation); library(vcd); library(xfun) library(tidyverse)
+library(readxl); library(simputation); library(vcd); library(xfun)
+library(tidyverse)
 
 source("data/Love-boost.R")
 
