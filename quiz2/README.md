@@ -4,7 +4,7 @@ This page will eventually have links to all materials for Quiz 2.
 
 ## Instructions
 
-By 5 PM on Thursday 2023-11-30, the complete instructions, including all questions, will be **posted here**.
+By 5 PM on Thursday 2023-11-30, a pdf file containing the complete instructions, including all 24 questions, will be **posted here**.
 
 ## R Packages and `Love-boost.R` script used in the Quiz
 
@@ -34,16 +34,20 @@ options(dplyr.summarise.inform = FALSE)
 
 ## Data
 
-In our Shared Drive, in the Quiz 2 Materials folder (and the data subfolder within it), I **will provide** data sets that are mentioned in the Quiz and which may be helpful to you, specifically:
+In our Shared Drive, in the Quiz 2 Materials folder (and the data subfolder within it), in addition to the `Love-boost.R` script, I have provided **five** data sets that are mentioned in the Quiz. These data may be helpful to you. The five data sets are:
 
-- list to come.
+- `movies.csv` (7 columns, 201 rows)
+- `nh_adult750.Rds` (16 columns, 750 rows)
+- `nnyfs.Rds` (45 columns, 1518 rows)
+- `optical.csv` (3 columns, 69 rows)
+- `projA.xlsx` (4 columns, 42 rows)
 
 ## Google Form Answer Sheet
 
 All of your answers should be placed in the Google Form Answer Sheet located at <https://bit.ly/431-2023-quiz2-form>. The form will open for your responses **by 5 PM on Thursday 2023-11-30**.
 
-- All of your answers must be submitted through the Google Form by 3 PM on Tuesday 2023-12-05, without exception.
-- The form will close at 4 PM that Tuesday (to allow you up to one hour's leeway), and no extensions will be made available, so do not wait until the last minute on Tuesday to submit your work.
+- All of your answers must be submitted through the Google Form by **3 PM** on Tuesday 2023-12-05, without exception.
+- The form will close at **3:30 PM** that Tuesday (to allow you up to 30 minutes leeway), and no extensions will be made available, so do not wait until the last minute on Tuesday to submit your work.
 - We will only accept responses through the Google Form.
 
 If you wish to work on some of the quiz and then return later, you can do this by:
@@ -63,4 +67,7 @@ You will then receive a link at your CWRU email which will allow you to return t
 - our [Favorite Movies work](https://github.com/THOMASELOVE/431-classes-2023/tree/main/movies), and
 - all of [Project A](https://thomaselove.github.io/431-projectA-2023/) and the required analyses in Studies 1 and 2 of [Project B](https://thomaselove.github.io/431-projectB-2023/)
 
-This does not mean I will actually address all of these things in the Quiz. I definitely will not.
+This does not mean I will actually address all of these things in the Quiz. I definitely will not. 
+
+- The Quiz involves two essays, one of which is about Spiegelhalter's book.
+- The other 22 questions are skewed heavily towards material discussed in the slides for Classes 12-23.
