@@ -42,8 +42,8 @@ In our Shared Drive, in the Quiz 2 Materials folder (and the data subfolder with
 
 All of your answers should be placed in the Google Form Answer Sheet located at <https://bit.ly/431-2023-quiz2-form>. The form will open for your responses **by 5 PM on Thursday 2023-11-30**.
 
-- All of your answers must be submitted through the Google Form by noon on Tuesday 2023-12-05, without exception.
-- The form will close at 1 PM that Tuesday (to allow you up to one hour's leeway), and no extensions will be made available, so do not wait until the last minute on Tuesday to submit your work.
+- All of your answers must be submitted through the Google Form by 3 PM on Tuesday 2023-12-05, without exception.
+- The form will close at 4 PM that Tuesday (to allow you up to one hour's leeway), and no extensions will be made available, so do not wait until the last minute on Tuesday to submit your work.
 - We will only accept responses through the Google Form.
 
 If you wish to work on some of the quiz and then return later, you can do this by:
