@@ -69,5 +69,5 @@ You will then receive a link at your CWRU email which will allow you to return t
 
 This does not mean I will actually address all of these things in the Quiz. I definitely will not. 
 
-- The Quiz involves two essays, one of which is about Spiegelhalter's book.
+- The Quiz involves two essays (questions 1 and 24), one of which is about Spiegelhalter's book.
 - The other 22 questions are skewed heavily towards material discussed in the slides for Classes 12-23.
