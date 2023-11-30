@@ -1,10 +1,12 @@
 # Quiz 2 Materials
 
-This page will eventually have links to all materials for Quiz 2.
+## Updates since initial posting of materials (2023-11-30 1 PM)
+
+- No updates yet. If you find an issue or want to ask a question, email `431-help at case dot edu`.
 
 ## Main PDF of Instructions and Questions
 
-By 5 PM on Thursday 2023-11-30, a pdf file containing the complete instructions, including all 24 questions, will be **posted here**.
+A pdf file containing the complete instructions, including all 24 questions, [is available here](https://github.com/THOMASELOVE/431-quizzes-2023/blob/main/quiz2/431-2023-quiz2.pdf). The PDF is 39 pages long.
 
 ## Data
 
@@ -20,7 +22,7 @@ In our Shared Drive, in the Quiz 2 Materials folder (and the data subfolder with
 
 All of your answers should be placed in the Google Form Answer Sheet located at <https://bit.ly/431-2023-quiz2-form>. 
 
-- The form will open for your responses **by 5 PM on Thursday 2023-11-30**.
+- The form is now open for your responses.
 - All of your answers must be submitted through the Google Form by **3 PM on Tuesday 2023-12-05**, without exception.
 - The form will close at **3:30 PM** that Tuesday (to allow you up to 30 minutes leeway), and no extensions will be made available, so do not wait until the last minute on Tuesday to submit your work.
 - We will only accept responses through the Google Form.
@@ -57,7 +59,6 @@ opts_chunk$set(comment = NA)
 options(tidyverse.quiet = TRUE)
 options(dplyr.summarise.inform = FALSE)
 ```
-
  
 ## Fair materials for me to draw from in Quiz 2
 
